@@ -1,6 +1,7 @@
 <h1 align="center">Hey there, I'm Himanshu Vaishnav</h1>
 <h3 align="center">Software Engineer </h3>
-
+<p>
+Final year student at Chitkara University, India, pursuing Bachleor of Engineering in Computer Science & engineering. Currently, I am gaining valuable experience as a Backend Developer intern at NovoInvent Softwares Ltd, where I am honing my skills and contributing to impactful projects. Over the years, I have worked with a diverse range of technologies, including Java, Node.js, Laravel, MongoDB, MySQL, JavaScript, and React.js, enabling me to build comprehensive and efficient web applications.</p>
 <img align="right" alt="codingImg" width=400 src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
