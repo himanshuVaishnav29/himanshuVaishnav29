@@ -154,6 +154,4 @@ My work involves architecting **REST/GraphQL APIs**, optimizing **database queri
 
 ### 💭 *"Building scalable solutions, one commit at a time"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6C63FF&style=for-the-badge)
-
 </div>
