@@ -88,7 +88,17 @@ My work involves architecting **REST/GraphQL APIs**, optimizing **database queri
 <td width="50%">
 
 #### **Software Engineer**
-**Novoinvent Softwares** • *May 2024 – Present*
+**GetWork AI** • *June 2026 – Present*
+
+- Working as a full stack developer
+- Tech stack: Fast API, React, PostgreSQL
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### **Software Engineer**
+**Novoinvent Softwares** • *May 2024 – May 2026*
 
 - Engineered backend systems processing **200k+ daily transactions**
 - Designed distributed wagering modules across multiple workflows
