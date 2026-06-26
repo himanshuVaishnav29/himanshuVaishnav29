@@ -14,14 +14,14 @@
 {
   "name": "Himanshu Vaishnav",
   "role": "Software Engineer",
-  "company": "Novoinvent Softwares",
-  "location": "Panchkula, HR, India",
+  "company": "GetWork AI",
+  "location": "Gurugram, HR, India",
   "expertise": ["Backend Development", "System Design", "API Architecture"],
   "currently_working_on": "Scalable backend systems for high-traffic platforms",
   "tech_stack": {
     "programming_languages" : ["Java", "Python", "Javascript"],
-    "frameworks_and_databases" : ["Node.js", "Laravel", "SQL", "MongoDB", "React"]
-    "others": ["Git", "Redis", "Docker", "Appian", "REST APIs", "Excel"]
+    "frameworks_and_databases" : ["Node.js", "Fast API", "Laravel", "SQL", "MongoDB", "React"]
+    "others": ["Git", "Redis", "Docker", "REST APIs", "Excel"]
   },
   "passion": "Building efficient, reliable, and scalable solutions"
 }
@@ -31,7 +31,7 @@
 
 ### About Me
 
-As a **Software Engineer** at Novoinvent Softwares, I architect scalable systems and high-performance APIs engineered for reliability. I specialize in developing workflow automation and robust backend solutions capable of managing high-traffic demands with seamless efficiency.
+As a **Software Engineer** at GetWork AI, I architect scalable systems and high-performance APIs engineered for reliability. I specialize in developing workflow automation and robust backend solutions capable of managing high-traffic demands with seamless efficiency.
 
 My work involves architecting **REST/GraphQL APIs**, optimizing **database queries**, and building reliable backend systems that improve efficiency. I focus on writing clean, maintainable code and solving complex engineering challenges.
 
